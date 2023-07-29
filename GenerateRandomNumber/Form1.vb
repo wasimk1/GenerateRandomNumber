@@ -10,17 +10,23 @@
 
     Private Function GenerateRandomNumber() As String
         Dim number As Long = random.Next(10000000, 99999999)
-        Dim d As String
+        Dim mon As String
+        Dim year As String
         Dim d1 As String
         Dim updatenum As String
-        d = Date.Now.Year
+        year = Date.Now.Year
+        mon = DateTime.Today.ToString("MM")
         d1 = "2001"
-        updatenum = d1 + d + number.ToString()
+        updatenum = d1 + mon + year + number.ToString()
         Return updatenum.ToString()
 
     End Function
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         TextBox1.ReadOnly = True
+    End Sub
+
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
+
     End Sub
 End Class
