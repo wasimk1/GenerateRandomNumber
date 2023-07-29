@@ -1,0 +1,12 @@
+E:\PROJECTS\VS\GenerateRandomNumber\bin\Debug\GenerateRandomNumber.exe.config
+E:\PROJECTS\VS\GenerateRandomNumber\bin\Debug\GenerateRandomNumber.exe
+E:\PROJECTS\VS\GenerateRandomNumber\bin\Debug\GenerateRandomNumber.pdb
+E:\PROJECTS\VS\GenerateRandomNumber\bin\Debug\GenerateRandomNumber.xml
+E:\PROJECTS\VS\GenerateRandomNumber\obj\Debug\GenerateRandomNumber.vbproj.AssemblyReference.cache
+E:\PROJECTS\VS\GenerateRandomNumber\obj\Debug\GenerateRandomNumber.Form1.resources
+E:\PROJECTS\VS\GenerateRandomNumber\obj\Debug\GenerateRandomNumber.Resources.resources
+E:\PROJECTS\VS\GenerateRandomNumber\obj\Debug\GenerateRandomNumber.vbproj.GenerateResource.cache
+E:\PROJECTS\VS\GenerateRandomNumber\obj\Debug\GenerateRandomNumber.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\VS\GenerateRandomNumber\obj\Debug\GenerateRandomNumber.exe
+E:\PROJECTS\VS\GenerateRandomNumber\obj\Debug\GenerateRandomNumber.xml
+E:\PROJECTS\VS\GenerateRandomNumber\obj\Debug\GenerateRandomNumber.pdb
