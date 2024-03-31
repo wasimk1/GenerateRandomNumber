@@ -1,4 +1,6 @@
-﻿Public Class Form1
+﻿
+Public Class Form1
+
     Public random As New Random()
     Private generatedNumbers As New HashSet(Of String)()
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
